@@ -1,5 +1,5 @@
 # STM32 × FPGA 学习工作台
-
+网址：https://github.com/Yuhanger/stm32-fpga-learning
 原 Site 的完整源码导出，以及可独立部署的 GitHub Pages 静态版。
 
 ## 使用
